@@ -1,0 +1,1 @@
+scoop cleanup 7zip aria2 aws curl dark discord docker firefox git googlechrome gradle groovy Hack-NF-Mono innounp insomnia intellij-idea lessmsi maven nodejs openjdk posh-git python rufus slack sourcetree steam-library-manager sudo vlc vscode webstorm windows-terminal
